@@ -1,3 +1,6 @@
+# Group no 49
+# Boston Billups, Gunho Kim
+
 def encode(data):
     string = ""
     for item in data:
